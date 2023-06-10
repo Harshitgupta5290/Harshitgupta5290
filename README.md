@@ -9,7 +9,7 @@
 <!-- 🌱 I’m currently learning **Docker**-->
 - 💬 **Frontend Specialist**: Proficient in frontend development, skilled in crafting visually appealing and user-friendly web interfaces using HTML, CSS, JavaScript, and frameworks like React.
 - 🚀 **Enthusiastic Researcher**: Thrilled by the world of research and innovation, constantly seeking out new technologies and techniques to stay ahead of the curve.
-- 🍺 Tech Enthusiast: Avid learner and technology lover ❤️, always excited to work with new tools and technologies in the pursuit of excellence. 
+- 🍺 **Tech Enthusiast**: Avid learner and technology lover ❤️, always excited to work with new tools and technologies in the pursuit of excellence. 
  
 
 <br/>
