@@ -55,7 +55,7 @@
   <img src='https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
   <!--<img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='nextjs' />-->
   <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-  <img src="https://img.shields.io/badge/Jekyll-%2329ABE2.svg?style=for-the-badge&logo=jekyll&logoColor=white" alt="jekyll" align="center">
+  <img src="https://img.shields.io/badge/Jekyll-%2329ABE2.svg?style=for-the-badge&logo=jekyll&logoColor=white" align="center" alt="jekyll">
   <!--<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />-->
   <!--<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />-->
    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  align="center" alt="material-ui" />
