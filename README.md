@@ -31,7 +31,7 @@
    <a href="https://www.linkedin.com/in/harshitgupta1215/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-   <a href="" target="_blank">
+<!--    <a href="" target="_blank">
     <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
   </a>
   <a href="" target="_blank">
@@ -42,7 +42,7 @@
   </a> 
   <a href="" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a> 
+  </a>  -->
 </div>  
 
 <h2>🥇 Technical Skills :</h2> 
