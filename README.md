@@ -1,4 +1,4 @@
-<h1 align="center">नमस्ते (Namaste)🙏, I'm Harshit Gupta</h1> 
+<h1 align="center">नमस्ते (Namaste)🙏, I'm Harshit Gupta</h1>  
 <h3 align="center">"Crafting Seamless Solutions: Building Tomorrow's Software Today on GitHub"</h3> 
 <br/>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" /> -->
