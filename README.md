@@ -117,7 +117,7 @@
 
 <h2>📊 My Statistics  :  </h2>  
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Harshitgupta5290&show_icons=true&theme=tokyonight&hide_border=false" style="height: 240px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshitgupta5290&show_icons=true&locale=en&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitgupta5290&show_icons=true&theme=tokyonight&hide_border=false&v=1" style="height: 240px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshitgupta5290&show_icons=true&locale=en&theme=tokyonight&hide_border=false&v=1" />
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=devilghostman&theme=tokyonight&hide_border=false"/>-->
 </div>
