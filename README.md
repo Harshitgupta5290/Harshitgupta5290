@@ -101,15 +101,6 @@
 
 ---
 
-### 🔥 Coding Activity (WakaTime)
-
-<!-- Replace below username with your actual wakatime username if different -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harshitgupta5290&theme=tokyonight&layout=compact" />
-</p>
-
----
-
 ### ⏳ Contribution Graph
 
 <p align="center">
