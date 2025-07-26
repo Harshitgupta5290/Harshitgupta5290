@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/harshitgupta1215/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Harshitgupta5290"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://viblog.megaventure.co.in"><img src="https://img.shields.io/badge/Website-Viblog-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@viblogofficial"><img src="https://img.shields.io/badge/Youtube-ViblogOfficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<!--   <a href="https://www.youtube.com/@viblogofficial"><img src="https://img.shields.io/badge/Youtube-ViblogOfficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
 </p>
 
 ---
